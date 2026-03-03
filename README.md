@@ -1,7 +1,7 @@
 # Hi, I'm Adharsh 👋
 
 [![Twitter Badge](https://img.shields.io/badge/-@adharsh2010-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/adharsh2010)
-[![GitHub Badge](https://img.shields.io/badge/-@adharshgamingyt-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/adharshgamingyt)
+[![GitHub Badge](https://img.shields.io/badge/-@adharsh2010-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/adharshh2010)
 
 ---
 
